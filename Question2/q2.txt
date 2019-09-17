@@ -1,0 +1,2 @@
+It is not necessary to type the git status command every time, but it is helpful to use. We want to use the git status command to see that the file you're currently working on is being tracked or not by git.
+These commands no longer work because you have entered a testing area for javascript code. You are no longer in your desktop directory. To escape out of node, simply type .exit <hit enter key>.

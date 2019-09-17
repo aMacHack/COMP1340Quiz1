@@ -1,0 +1,1 @@
+/*The difference between github and git is that git is a program and github is a social website for posting and sharing your code. You need the program git to track your code in order to be able to post it to github.*/
